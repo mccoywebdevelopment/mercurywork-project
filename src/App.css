@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* html,body {
+  margin: 0;
+  height: 100%;
+  background: #ffe259;  
+background: -webkit-linear-gradient(to right, #ffa751, #ffe259);  
+background: linear-gradient(to right, #ffa751, #ffe259); 
+
+} */
+
+html,body,#root,.App{
+  margin: 0;
+  height: 100%;
+}
+

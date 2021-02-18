@@ -1,0 +1,9 @@
+.row{
+    /* padding: 3em; */
+}
+.red-text{
+    color: red;
+}
+.col-lg-6,.col-lg-12{
+    padding-top: 5em;
+}
